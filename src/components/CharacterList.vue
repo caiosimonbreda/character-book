@@ -87,7 +87,9 @@ const getFilteredCharacters = function (filter) {
 main {
     display: flex;
     flex-flow: row wrap;
+    width: 100%;
     padding-top: 52px;
+    justify-content: center;
 }
 
 footer {
